@@ -100,12 +100,12 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* possible reduntancy with h3 and main */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* should i consolidate all the margin-bottom properties? */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
